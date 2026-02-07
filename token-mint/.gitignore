@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# Build output
+*.js
+*.js.map
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment / secrets
+.env
+
+# OS files
+.DS_Store
+
+# Solana local config (DO NOT COMMIT)
+id.json
+*.keypair
